@@ -39,3 +39,14 @@ The company collected the transactional data of customers who purchased products
 
 **6. Post-Black Friday Engagement**
 - After Black Friday, walmart should engage with customers who made purchases by sending follow-up emails or offers for related products. This can help increase customer retention and encourage repeat business throughout the holiday season and beyond.
+
+## Contributors
+- **Shreyash Darade**: Data Analyst and Developer.
+
+Feel free to contribute by submitting a pull request or suggesting improvements!
+
+---
+
+## Contact
+For queries or feedback, reach out at: [shreyashdarade555@gmail.com](mailto:shreyashdarade555@gmail.com).
+
